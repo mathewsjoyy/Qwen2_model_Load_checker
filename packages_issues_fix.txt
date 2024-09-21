@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/57814535/assertionerror-torch-not-compiled-with-cuda-enabled-in-spite-upgrading-to-cud
+FIRST ANSWER for cuda issue, and go to the pytorch site, to select os and conda, python and latest cuda version
